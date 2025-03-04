@@ -1,0 +1,719 @@
+Version 10.2 !
+Diagram_Title ""
+Notes1 
+Notes2 
+Page_Settings_Table Width Height Orientation Pos_X Pos_Y Draw_Scale Fine_Scale Created_By Create_Date Updated_By Update_Date Adjust_X Adjust_Y Page_Locked Default_Zoom
+ page_settings 3000 2271 landscape 45 -131 0.316 2 Auto Auto "Andressa Cristina" 01/03/2025 0 0 Unlocked 100
+Colours_Table Bkgnd Link_Text Grid Float_Foregnd Float_Backgnd
+ colours &hFFFFFF& &hFF0000& &hFEEDED& &h0& &hC0FFFF&
+Text_Styles_Table Font Size Bold Italic UL ST FColour BColour F_Transpcy B_Transpcy
+ text_style Normal Calibri 10 False False False False &h0& &hFFFFFF& 255 0 
+ text_style Heading1 "Calibri Light" 16 False False False False &h0& &hFFFFFF& 255 0 
+ text_style Heading2 "Calibri Light" 13 False False False False &h0& &hFFFFFF& 255 0 
+ text_style Title "Calibri Light" 28 False False False False &h0& &hFFFFFF& 255 0 
+ text_style Subtitle Calibri 11 False False False False &h0& &hFFFFFF& 255 0 
+ text_style Small Calibri 6 False False False False &h0& &hFFFFFF& 255 0 
+Obj_Table Index Type X Y Caption_Lbl Float_text Hyperlink Parent Addr_Lbl X_scale Y_scale Layer Type_bits Rotate Options Backgnd Width Height Locked Toolset Var1 Var2
+ object 1 Satellite 282 134 1 ! ! 0 2 2.5 2.5 2 0 0 0 false 449 185 false 0 ! !
+ object 2 house1 2362 1898 6 ! ! 0 7 2.72 2.72 2 0 0 0 false 339 224 false 0 ! !
+ object 3 Satdish 2350 1776 0 ! ! 0 9 1 1 2 0 0 0 false 107 72 false 0 ! !
+ object 4 "radio tower.wmf" 290 1550 3 ! ! 0 4 14.125 14.125 2 0 0 0 false 339 909 false 0 ! !
+ object 5 Satdish 252 1070 10 ! ! 0 11 1 1 2 0 0 0 false 107 72 false 0 ! !
+ object 6 linknode 489 1095 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 7 linknode 2048 993 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 8 linknode 277 294 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 9 linknode 263 868 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 10 linknode 62 1162 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 11 linknode 532 1290 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 12 linknode 2232 1720 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 13 linknode 62 2060 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 14 linknode 923 2060 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 15 linknode 333 268 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 16 linknode 569 860 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 17 linknode 516 1728 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 18 linknode 2405 1400 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 19 linknode 57 1278 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 20 linknode 65 1792 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 21 linknode 2405 1705 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 22 linknode 2597 1459 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 23 linknode 966 1421 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 24 linknode 490 1822 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 25 linknode 736 1340 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ no_object 26
+ object 27 linknode 711 1434 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 28 house1 2716 1597 5 ! ! 0 12 2.72 2.72 2 0 0 0 false 339 224 false 0 ! !
+ object 29 linknode 2319 1393 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 30 Satdish 2704 1475 0 ! ! 0 13 1 1 2 0 0 0 false 107 72 false 0 ! !
+ object 31 linknode 722 1599 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ object 32 linknode 602 1708 0 ! ! 0 0 2 2 0 2 0 0 false 16 16 false 0 ! !
+ no_object 33
+ no_object 34
+ object 35 "6U Cabinet" 923 1745 0 ! ! 0 0 0.625 0.625 4 80 0 0 false 350 220 false 0 ! !
+ object 36 "APC Extra Battery SMX120RMBP2U" 0.25 55.3125 0 ! ! 35 0 0.625 0.625 3 80 0 24 false 278 55 false 0 ! !
+ object 37 "MikroTik RB4011iGS+RM" 933 1728 0 ! ! 0 0 0.8859649 0.8859649 2 80 0 0 false 202 27 false 0 ! !
+ object 38 "1U Shelf" 5 -14 0 ! ! 35 0 0.6053719 0.6053719 3 80 0 0 false 293 27 false 0 ! !
+Label_Table Index X Y Text Font_Name Size Bold Italic UL ST Colour Parent_Object Type Backgnd Locked Rotate Ftranspcy Btranspcy Layer Style Parent_Link Link_pos Link_Seg Xoffset Yoffset
+ label 1 28 104 "SATELITE STARLINK" ! ! ! ! false ! &h0& 1 object ! ! 0 255 0 0 ! 0 0 0 false 8
+ label 2 n -92.5 ! ! ! ! ! false ! &h0& 1 ip ! ! 0 255 0 0 ! 0 0 0 false 8
+ label 3 s 468 "TORRE ." ! ! ! ! false ! &h0& 4 object ! ! 0 255 0 0 ! 0 0 0 false 8
+ label 4 n -454.5 ! ! ! ! ! false ! &h0& 4 ip ! ! 0 255 0 0 ! 0 0 0 false 8
+ label 5 s 125.5 CASA-02 ! ! ! ! false ! &h0& 28 object ! ! 0 255 0 0 ! 0 0 0 false 8
+ label 6 s 125.5 CASA-01 ! ! ! ! false ! &h0& 2 object ! ! 0 255 0 0 ! 0 0 0 false 8
+ label 7 n -112 ! ! ! ! ! false ! &h0& 2 ip ! ! 0 255 0 0 ! 0 0 0 false 8
+ label 8 520 46 " PROVEDOR DE INTERNET" ! ! ! ! false ! &h0& 0 ! ! ! 0 255 0 0 ! 0 0 0 false 8
+ label 9 n -36 ! ! ! ! ! false ! &h0& 3 ip ! ! 0 255 0 0 ! 0 0 0 false 8
+ label 10 -127 5.5 "STAR LINK" ! ! ! ! false ! &h0& 5 object ! ! 0 255 0 0 ! 0 0 0 false 8
+ label 11 n -36 ! ! ! ! ! false ! &h0& 5 ip ! ! 0 255 0 0 ! 0 0 0 false 8
+ label 12 n -112 ! ! ! ! ! false ! &h0& 28 ip ! ! 0 255 0 0 ! 0 0 0 false 8
+ label 13 n -36 ! ! ! ! ! false ! &h0& 30 ip ! ! 0 255 0 0 ! 0 0 0 false 8
+ label 14 52 483 "SINAL VIA SATELITE " ! ! ! ! false ! &h0& 0 ! ! ! 0 255 0 0 ! 0 0 0 false 8
+ label 15 454 1928 "CABO DE REDE LIGANDO<<crlf>>A STAR LINK NO ROUTER" ! ! ! ! false ! &h0& 0 ! ! ! 0 255 0 0 ! 0 0 0 false 8
+ label 16 1117 1728 "RACK DE TELECOMUNICAÇÃO<<crlf>><<crlf>>1 - MIKROTIK RB4011iGS+RM<<crlf>>2- APC Extra Battery SMX120RMBP2U" ! ! ! ! false ! &h0& 0 ! ! ! 0 255 0 0 ! 0 0 0 false 8
+ label 17 474 1048 "ANTENAS UNIFI<<crlf>>LITEBEAM" ! ! ! ! false ! &h0& 0 ! ! ! 0 255 0 0 ! 0 0 0 false 8
+ label 18 721 1551 "CABOS SAINDO DO ROTEADOR PARA AS<<crlf>> ATENAS DE TRANSMIÃO." ! ! ! ! false ! &h0& 0 ! ! ! 0 255 0 0 ! 0 0 0 false 8
+ no_label 19
+ label 20 496 1306 "PROPRAGAÇÃO DO <<crlf>>SINAL WIRELLES." ! ! ! ! false ! &h0& 0 ! ! ! 0 255 0 0 ! 0 0 0 false 8
+ no_label 21
+ no_label 22
+ no_label 23
+ no_label 24
+ no_label 25
+ no_label 26
+ no_label 27
+ no_label 28
+ label 29 2359 1308 "ANTENA PARA<<crlf>>RECEBER INTERNET<<crlf>>VIA RÁDIO." ! ! ! ! false ! &h0& 0 ! ! ! 0 255 0 0 ! 0 0 0 false 8
+ no_label 30
+ no_label 31
+ no_label 32
+ no_label 33
+ no_label 34
+ no_label 35
+ no_label 36
+ no_label 37
+ no_label 38
+ no_label 39
+ no_label 40
+ no_label 41
+ no_label 42
+Link_Table Index Obj1 Obj2 Style Hostname1_Lbl Hostname2_Lbl Addr1_Lbl Addr2_Lbl Comment1 Comment2 Xoffset1 Yoffset1 Xoffset2 Yoffset2 Node_List Align Layer
+ link_object 1 8 9 "Leased Line" 0 0 0 0 ! ! 0 0 0 40 ! False 1 -1
+ link_object 2 6 7 ADSL 0 0 0 0 ! ! -7 130 183 -33 ! False 1 -1
+ link_object 3 11 12 ADSL 0 0 0 0 ! ! -47 130 0 0 ! False 1 -1
+ link_object 4 18 21 "black pointer" 0 0 0 0 ! ! 0 0 0 0 ! False 1 -1
+ link_object 5 5 4 100baseT 0 0 0 0 ! ! 0 0 0 0 ! False 3 -1
+ link_object 6 15 16 "red pointer" 0 0 0 0 ! ! 0 0 -206 21 ! False 1 -1
+ link_object 7 19 20 "red pointer" 0 0 0 0 ! ! -18 -21 -31 2 ! False 1 -1
+ link_object 8 5 35 100baseT 0 0 0 0 ! ! 0 0 0 0 "10 13 14" False 3 -1
+ link_object 9 37 4 100baseT 0 0 0 0 ! ! 0 0 0 0 17 False 3 -1
+ link_object 10 24 4 "black pointer" 0 0 0 0 ! ! 109 165 308 496 ! False 1 -1
+ link_object 11 18 22 "black pointer" 0 0 0 0 ! ! 0 0 0 0 ! False 1 -1
+ link_object 12 23 25 "red pointer" 0 0 0 0 ! ! -134 14 0 0 ! False 1 -1
+ link_object 13 27 29 "red pointer" 0 0 0 0 ! ! 131 -247 -1583 -100 ! False 1 -1
+ link_object 14 31 32 "black pointer" 0 0 0 0 ! ! 0 0 0 0 ! False 1 -1
+Link_Styles_table Type Format Colour Style Width Misc Angle Style2 Length Endcap Join Startcap Dashcap Transpcy Align Secondary_Style start_cap_type variant width height x y end_cap_type variant width height x y
+ define_link 100baseT 0 &h808080& 1 1 9 0 0 0 0 0 0 0 255 False ! 0 0 0 0 0 0 0 0 0 0 0 0 0
+ define_link 1000BaseT 0 &h9797FF& 1 1 9 0 0 0 0 0 0 0 255 False ! 0 0 0 0 0 0 0 0 0 0 0 0 0
+ define_link "MM Fibre" 0 &hFF8080& 1 2 9 0 0 0 0 0 0 0 255 False ! 0 0 0 0 0 0 0 0 0 0 0 0 0
+ define_link "SM Fibre" 0 &h80FF00& 1 2 9 0 0 0 0 0 0 0 255 False ! 0 0 0 0 0 0 0 0 0 0 0 0 0
+ define_link 10baseT 0 &h808080& 1 1 9 0 0 0 0 0 0 0 255 False ! 0 0 0 0 0 0 0 0 0 0 0 0 0
+ define_link "Leased Line" 1 &hFF00& 1 14 9 0 0 0 0 0 0 0 255 False ! 0 0 0 0 0 0 0 0 0 0 0 0 0
+ define_link ISDN 0 &hFF& 3 2 9 1 0 0 0 0 0 0 255 False ! 0 0 0 0 0 0 0 0 0 0 0 0 0
+ define_link ADSL 1 &hFFFF00& 1 14 9 0 0 0 0 0 0 0 255 False ! 0 0 0 0 0 0 0 0 0 0 0 0 0
+ define_link backbone 0 &hC0C0C0& 1 6 9 0 0 0 0 0 0 0 255 False ! 0 0 0 0 0 0 0 0 0 0 0 0 0
+ define_link "black pointer" 0 &h0& 1 1 128 0.3 1 13 9 0 0 0 255 False ! 0 0 0 0 0 0 0 1 8 12 0 0 0
+ define_link "red pointer" 0 &hFF& 1 1 128 0 1 15 9 0 0 0 255 False ! 0 0 0 0 0 0 0 1 8 14 0 0 0
+ define_link unknown 0 &h7F7F7F& 1 2 9 0 0 0 0 0 0 0 255 False ! 0 0 0 0 0 0 0 0 0 0 0 0 0
+ define_link "GRE Tunnel" 0 &hFF& 2 2 9 0 0 0 0 0 0 0 255 False ! 0 0 0 0 0 0 0 0 0 0 0 0 0
+ define_link L2TP 0 &h80FF& 2 2 9 0 0 0 0 0 0 0 255 False ! 0 0 0 0 0 0 0 0 0 0 0 0 0
+ define_link box 0 &h7C7C7C& 1 2 9 0 0 0 0 0 0 0 255 False ! 0 0 0 0 0 0 0 0 0 0 0 0 0
+Script_Objects_Tables
+ script "6U Cabinet" 560 352 3.2
+ align - screw 47 49 47 93.5 47 138 47 182.5 47 227 47 271.5 512 49 512 93.5 512 138 512 182.5 512 227 512 271.5
+ path name "top box"
+ path addrectangle 0 0 560 40
+ path name "bottom box"
+ path addrectangle 0 311 560 40
+ path name "left mount"
+ path addrectangle 30 41 27 269
+ path name "right mount"
+ path addrectangle 503 41 27 269
+ path name "left side"
+ path addrectangle 0 41 30 269
+ path name "right side"
+ path addrectangle 530 41 30 269
+ path name "1U holes"
+ path addrectangle 0 0 9.5 9.5
+ path startfigure
+ path addrectangle 0 15.9 9.5 9.5
+ path startfigure
+ path addrectangle 0 31.8 9.5 9.5
+ path name "U numbers"
+ path addstring 0 283.5 1 arial 3.75 1
+ path addstring 0 239 2 arial 3.75 1
+ path addstring 0 194.5 3 arial 3.75 1
+ path addstring 0 150 4 arial 3.75 1
+ path addstring 0 105.5 5 arial 3.75 1
+ path addstring 0 61 6 arial 3.75 1
+ pen black_pen0.5 &h000000& 255 0.5
+ brush grey_brush &ha0a0a0& 255
+ brush grey_brush2 &hE0E0E0& 255
+ brush black_brush &h040404& 255
+ fill "top box" grey_brush
+ draw "top box" black_pen0.5
+ fill "bottom box" grey_brush
+ draw "bottom box" black_pen0.5
+ fill "left mount" grey_brush2
+ draw "left mount" black_pen0.5
+ fill "right mount" grey_brush2
+ draw "right mount" black_pen0.5
+ fill "left side" grey_brush
+ draw "left side" black_pen0.5
+ fill "right side" grey_brush
+ draw "right side" black_pen0.5
+ fill "1U holes" black_brush 42 44
+ fill "1U holes" black_brush 42 88.5
+ fill "1U holes" black_brush 42 133
+ fill "1U holes" black_brush 42 177.5
+ fill "1U holes" black_brush 42 222
+ fill "1U holes" black_brush 42 266.5
+ fill "1U holes" black_brush 508  44
+ fill "1U holes" black_brush 508  88.5
+ fill "1U holes" black_brush 508  133
+ fill "1U holes" black_brush 508  177.5
+ fill "1U holes" black_brush 508  222
+ fill "1U holes" black_brush 508  266.5
+ fill "U Numbers" black_brush 522 0
+ fill "U Numbers" black_brush 31 0
+ script "APC Extra Battery SMX120RMBP2U" 444 88 1.1
+ align + screw -11 7 454 7 -11 38 454 38 -11 51 454 51 -11 81 454 81
+ path name "2U Box"
+ path addrectangle 0 0 444 88
+ path name cut1
+ path addrectangle 0 0 440 64.5
+ path name vent_box
+ path addrectangle 0 0 417 57.55
+ path name vent1
+ path startfigure
+ path addarc -1 0 .8 .8 90 180
+ path addarc 3 0 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 4.36 .8 .8 90 180
+ path addarc 3 4.36 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 8.72 .8 .8 90 180
+ path addarc 3 8.72 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 13.08 .8 .8 90 180
+ path addarc 3 13.08 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 17.44 .8 .8 90 180
+ path addarc 3 17.44 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 21.8 .8 .8 90 180
+ path addarc 3 21.8 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 26.16 .8 .8 90 180
+ path addarc 3 26.16 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 30.52 .8 .8 90 180
+ path addarc 3 30.52 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 34.88 .8 .8 90 180
+ path addarc 3 34.88 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 39.24 .8 .8 90 180
+ path addarc 3 39.24 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 43.6 .8 .8 90 180
+ path addarc 3 43.6 .8 .8 -90 180
+ path closefigure
+ path name vent2
+ path startfigure
+ path addarc -1 0 .8 .8 90 180
+ path addarc 3 0 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 4.36 .8 .8 90 180
+ path addarc 3 4.36 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 8.72 .8 .8 90 180
+ path addarc 3 8.72 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 13.08 .8 .8 90 180
+ path addarc 3 13.08 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 17.44 .8 .8 90 180
+ path addarc 3 17.44 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 21.8 .8 .8 90 180
+ path addarc 3 21.8 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 26.16 .8 .8 90 180
+ path addarc 3 26.16 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 30.52 .8 .8 90 180
+ path addarc 3 30.52 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 34.88 .8 .8 90 180
+ path addarc 3 34.88 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 39.24 .8 .8 90 180
+ path addarc 3 39.24 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 43.6 .8 .8 90 180
+ path addarc 3 43.6 .8 .8 -90 180
+ path closefigure
+ path startfigure
+ path addarc -1 47.96 .8 .8 90 180
+ path addarc 3 47.96 .8 .8 -90 180
+ path closefigure
+ path name A
+ path addlines 6 0 10 0 15 12 7 12 5.6 9.5 10 9.5 8 4 4 12 0 12 6 0
+ path closefigure
+ path name P
+ path startfigure
+ path addlines 0 0 8.5 0
+ path addarc 4 0 8.5 8 -90 180
+ path addlines 8.5 8 5.5 8 5.5 12 1 12 1 5 8 5
+ path addarc 7 3 2 2 90 -180
+ path addlines 8 3 1 3 0 0
+ path closefigure
+ path name C
+ path startfigure
+ path addarc -1.24 0 18 18 -142 80
+ path addlines 11.73 .91 11.73 5.02
+ path addarc 1.78 3.47 11.88 11.88 -47.57 -56.87
+ path addarc 2.72 3.43 10 10 -107.17 -16.82
+ path addarc 3.78 3.81 5.28 5.28 -124.72 -54.75
+ path addarc 3.53 .22 9.38 9.38 -198.9 -119.35
+ path addlines 11.73 8.03 11.73 11.91
+ path addarc -4.07 -10.54 23.22 23.22 68.84 34.9
+ path addarc 0 1.36 11.1 11.05 98.13 57.52
+ path addarc 0 -1.8 16.4 16.4 160.43 39.03
+ path closefigure
+ path name screwhead
+ path startfigure
+ path addlines 3 2 2 3 3 4 2 5 3 6 4 5 5 6 6 5 5 4 6 3 5 2 4 3
+ path closefigure
+ path name screw
+ path addarc 0 0 8 8 0 360
+ path name bracket
+ path startfigure
+ path addlines 20 88 20 0
+ path addarc 0 0 5 5 270 -90
+ path addarc 0 83 5 5 180 -90
+ path closefigure
+ path startfigure
+ path addarc 5 4 5 5 90 180
+ path addarc 9 4 5 5 270 180
+ path closefigure
+ path startfigure
+ path addarc 5 35 5 5 90 180
+ path addarc 9 35 5 5 270 180
+ path closefigure
+ path startfigure
+ path addarc 5 47 5 5 90 180
+ path addarc 9 47 5 5 270 180
+ path closefigure
+ path startfigure
+ path addarc 5 79 5 5 90 180
+ path addarc 9 79 5 5 270 180
+ path closefigure
+ pen white_pen &hFFFFFF& 255 0.1
+ pen black_pen &h000000& 255 0.1
+ pen black_pen1 &h000000& 255 0.5
+ pen grey_pen1 &hd0d0d0& 255 0.25
+ pen dark_grey_pen1 &h606060& 255 0.5
+ pen dark_grey_pen4 &h000040& 255 1.75
+ pen yellow_pen &h00FFFF& 255 .5
+ brush light_grey_brush &ha0a0a0& 255
+ brush light_grey_brush2 &hc0c0c0& 255
+ brush black_brush &h000000& 255
+ brush black_brush2 &h000000& 100
+ brush white_brush &hffffff& 255
+ brush grey_brush &h292929& 255
+ brush dark_grey_brush &h2E2E2E& 255
+ brush dark_grey_brush2 &h020202& 255
+ brush blue_brush &hE44832& 255
+ brush yellow_brush &h00FFFF& 255
+ brush dark_grey_brush3 &h151515& 255
+ brush blackbrush &h000000& 255
+ brush light_green_brush &h29D643& 255
+ fill "2U Box" dark_grey_brush2 0 0
+ draw "2U Box" black_pen1 0 0
+ fill cut1 dark_grey_brush3 2 11.75
+ fill vent_box grey_brush 13.5 15.23
+ draw vent_box black_pen1 13.5 15.23
+ fill vent1 black_brush 17.45 21.7
+ fill vent1 black_brush 23.8 21.7
+ fill vent1 black_brush 30.15 21.7
+ fill vent1 black_brush 36.5 21.7
+ fill vent1 black_brush 42.85 21.7
+ fill vent1 black_brush 49.2 21.7
+ fill vent1 black_brush 55.55 21.7
+ fill vent1 black_brush 61.9 21.7
+ fill vent1 black_brush 68.25 21.7
+ fill vent1 black_brush 74.6 21.7
+ fill vent1 black_brush 80.95 21.7
+ fill vent1 black_brush 87.3 21.7
+ fill vent1 black_brush 93.65 21.7
+ fill vent1 black_brush 100 21.7
+ fill vent1 black_brush 106.35 21.7
+ fill vent1 black_brush 112.7 21.7
+ fill vent1 black_brush 119.05 21.7
+ fill vent1 black_brush 125.4 21.7
+ fill vent1 black_brush 131.75 21.7
+ fill vent1 black_brush 138.1 21.7
+ fill vent1 black_brush 144.45 21.7
+ fill vent1 black_brush 150.8 21.7
+ fill vent1 black_brush 157.15 21.7
+ fill vent1 black_brush 163.5 21.7
+ fill vent1 black_brush 169.85 21.7
+ fill vent1 black_brush 176.2 21.7
+ fill vent1 black_brush 182.55 21.7
+ fill vent1 black_brush 188.9 21.7
+ fill vent1 black_brush 195.25 21.7
+ fill vent1 black_brush 201.6 21.7
+ fill vent1 black_brush 207.95 21.7
+ fill vent1 black_brush 214.3 21.7
+ fill vent1 black_brush 220.65 21.7
+ fill vent1 black_brush 227 21.7
+ fill vent1 black_brush 233.35 21.7
+ fill vent1 black_brush 239.7 21.7
+ fill vent1 black_brush 246.05 21.7
+ fill vent1 black_brush 252.4 21.7
+ fill vent1 black_brush 258.75 21.7
+ fill vent1 black_brush 265.1 21.7
+ fill vent1 black_brush 271.45 21.7
+ fill vent1 black_brush 277.8 21.7
+ fill vent1 black_brush 284.15 21.7
+ fill vent1 black_brush 290.5 21.7
+ fill vent1 black_brush 296.85 21.7
+ fill vent1 black_brush 303.2 21.7
+ fill vent1 black_brush 309.55 21.7
+ fill vent1 black_brush 315.9 21.7
+ fill vent1 black_brush 322.25 21.7
+ fill vent1 black_brush 328.6 21.7
+ fill vent1 black_brush 334.95 21.7
+ fill vent1 black_brush 341.3 21.7
+ fill vent1 black_brush 347.65 21.7
+ fill vent1 black_brush 354 21.7
+ fill vent1 black_brush 360.35 21.7
+ fill vent1 black_brush 366.7 21.7
+ fill vent1 black_brush 373.05 21.7
+ fill vent1 black_brush 379.4 21.7
+ fill vent1 black_brush 385.75 21.7
+ fill vent1 black_brush 392.1 21.7
+ fill vent1 black_brush 398.45 21.7
+ fill vent1 black_brush 404.8 21.7
+ fill vent1 black_brush 411.15 21.7
+ fill vent1 black_brush 417.5 21.7
+ fill vent1 black_brush 423.85 21.7
+ fill vent2 black_brush 20 19.5
+ fill vent2 black_brush 26.35 19.5
+ fill vent2 black_brush 32.7 19.5
+ fill vent2 black_brush 39.05 19.5
+ fill vent2 black_brush 45.4 19.5
+ fill vent2 black_brush 51.75 19.5
+ fill vent2 black_brush 58.1 19.5
+ fill vent2 black_brush 64.45 19.5
+ fill vent2 black_brush 70.8 19.5
+ fill vent2 black_brush 77.15 19.5
+ fill vent2 black_brush 83.5 19.5
+ fill vent2 black_brush 89.85 19.5
+ fill vent2 black_brush 96.2 19.5
+ fill vent2 black_brush 102.55 19.5
+ fill vent2 black_brush 108.9 19.5
+ fill vent2 black_brush 115.25 19.5
+ fill vent2 black_brush 121.6 19.5
+ fill vent2 black_brush 127.95 19.5
+ fill vent2 black_brush 134.3 19.5
+ fill vent2 black_brush 140.65 19.5
+ fill vent2 black_brush 147 19.5
+ fill vent2 black_brush 153.35 19.5
+ fill vent2 black_brush 159.7 19.5
+ fill vent2 black_brush 166.05 19.5
+ fill vent2 black_brush 172.4 19.5
+ fill vent2 black_brush 178.75 19.5
+ fill vent2 black_brush 185.1 19.5
+ fill vent2 black_brush 191.45 19.5
+ fill vent2 black_brush 197.8 19.5
+ fill vent2 black_brush 204.15 19.5
+ fill vent2 black_brush 210.5 19.5
+ fill vent2 black_brush 216.85 19.5
+ fill vent2 black_brush 223.2 19.5
+ fill vent2 black_brush 229.55 19.5
+ fill vent2 black_brush 235.9 19.5
+ fill vent2 black_brush 242.25 19.5
+ fill vent2 black_brush 248.6 19.5
+ fill vent2 black_brush 254.95 19.5
+ fill vent2 black_brush 261.3 19.5
+ fill vent2 black_brush 267.65 19.5
+ fill vent2 black_brush 274 19.5
+ fill vent2 black_brush 280.35 19.5
+ fill vent2 black_brush 286.7 19.5
+ fill vent2 black_brush 293.05 19.5
+ fill vent2 black_brush 299.4 19.5
+ fill vent2 black_brush 305.75 19.5
+ fill vent2 black_brush 312.1 19.5
+ fill vent2 black_brush 318.45 19.5
+ fill vent2 black_brush 324.8 19.5
+ fill vent2 black_brush 331.15 19.5
+ fill vent2 black_brush 337.5 19.5
+ fill vent2 black_brush 343.85 19.5
+ fill vent2 black_brush 350.2 19.5
+ fill vent2 black_brush 356.55 19.5
+ fill vent2 black_brush 362.9 19.5
+ fill vent2 black_brush 369.25 19.5
+ fill vent2 black_brush 375.6 19.5
+ fill vent2 black_brush 381.95 19.5
+ fill vent2 black_brush 388.3 19.5
+ fill vent2 black_brush 394.65 19.5
+ fill vent2 black_brush 401 19.5
+ fill vent2 black_brush 407.35 19.5
+ fill vent2 black_brush 413.7 19.5
+ fill vent2 black_brush 420.05 19.5
+ fill A white_brush 40 38 1 1 0
+ fill P white_brush 55 38 1 1 0
+ fill C white_brush 66.5 38 1 1 0
+ option "brackets"
+ draw bracket dark_grey_pen1 -20.5 0
+ fill bracket blackbrush -20.5 0
+ draw bracket dark_grey_pen1 464.5 0 -1 1
+ fill bracket blackbrush 464.5 0 -1 1
+ option "screws"
+ fill screw light_grey_brush2 -15 2
+ draw screw dark_grey_pen1 -15 2
+ fill screwhead dark_grey_brush -15 2
+ fill screw light_grey_brush2 450.5 2
+ draw screw dark_grey_pen1 450.5 2
+ fill screwhead dark_grey_brush 450.5 2
+ fill screw light_grey_brush2 -15 78
+ draw screw dark_grey_pen1 -15 78
+ fill screwhead dark_grey_brush -15 78
+ fill screw light_grey_brush2 450.5 78
+ draw screw dark_grey_pen1 450.5 78
+ fill screwhead dark_grey_brush 450.5 78
+ fill screw light_grey_brush2 -15 33
+ draw screw dark_grey_pen1 -15 33
+ fill screwhead dark_grey_brush -15 33
+ fill screw light_grey_brush2 450.5 33
+ draw screw dark_grey_pen1 450.5 33
+ fill screwhead dark_grey_brush 450.5 33
+ fill screw light_grey_brush2 -15 46.4
+ draw screw dark_grey_pen1 -15 46.5
+ fill screwhead dark_grey_brush -15 46.5
+ fill screw light_grey_brush2 450.5 46.5
+ draw screw dark_grey_pen1 450.5 46.5
+ fill screwhead dark_grey_brush 450.5 46.5
+ script "1U Shelf" 484 44 0.4
+ align + screw 9 6 474 6 9 40 474 40
+ path name bracket
+ path addrectangle 0 0 20 44
+ path name shelf
+ path addrectangle 0 0 445 5
+ path name screw
+ path addarc 0 0 8 8 0 360
+ path name screwhead
+ path startfigure
+ path addlines 3 2 2 3 3 4 2 5 3 6 4 5 5 6 6 5 5 4 6 3 5 2 4 3
+ path closefigure
+ pen black_pen1 &h000000& 255 0.5
+ pen black_pen0.5 &h000000& 255 0.25
+ pen grey_pen1 &hd0d0d0& 255 0.25
+ pen dark_grey_pen1 &h606060& 255 0.5
+ pen yellowpen5 &h80FFFF& 255 0.5
+ pen yellowpen4 &h80FFFF& 255 1
+ pen light_blue_pen &hFDF8B3& 255 1
+ pen whitepen1 &hffffff& 255 0.125
+ pen dark_grey_pen4 &h606060& 255 1.75
+ brush yellowbrush &h80FFFF& 255
+ brush blue_brush &h776F09& 255
+ brush grey_brush &h606060& 255
+ brush light_grey_brush &ha0a0a0& 255
+ brush light_grey_brush2 &hc0c0c0& 255
+ brush yellow_brush &h80FFFF& 255
+ brush black_brush &h000000& 255
+ brush white_brush &hffffff& 255
+ brush dark_grey_brush &h606060& 255
+ brush light_blue_brush &hFDF8B3& 255
+ brush bracket1 &h101010& 255
+ brush bracket2 &h707070& 255
+ brush bracket3 &h101010& 255
+ brush bracket4 &h303030& 255
+ brush bracket5 &h202020& 255
+ fill bracket black_brush
+ fill bracket black_brush 464.5 0
+ fill shelf black_brush 20 40
+ fill screw light_grey_brush2 5 2
+ draw screw dark_grey_pen1 5 2
+ fill screwhead dark_grey_brush 5 2
+ fill screw light_grey_brush2 470.5 2
+ draw screw dark_grey_pen1 470.5 2
+ fill screwhead dark_grey_brush 470.5 2
+ fill screw light_grey_brush2 5 33
+ draw screw dark_grey_pen1 5 33
+ fill screwhead dark_grey_brush 5 33
+ fill screw light_grey_brush2 470.5 33
+ draw screw dark_grey_pen1 470.5 33
+ fill screwhead dark_grey_brush 470.5 33
+ script "MikroTik RB4011iGS+RM" 228 30 1
+ align + screw -119 -1 347 -1
+ path name box
+ path addrectangle 0 0 228 30
+ path name lid
+ path addline 0 0 228 0
+ path name ethbox
+ path addrectangle 0 0 73 13
+ path name rj45
+ path addlines 2 4 2 2 3.5 2 3.5 1 9 1 9 2 10.5 2 10.5 4 12.5 4 12.5 11 0 11 0 4
+ path name sfpslot
+ path addrectangle 0 0 14 9
+ path name sfpslot_bg
+ path addrectangle 0 0 16 12
+ path name LED
+ path addarc 0 0 3 3 0 360
+ path name reset
+ path addarc 0 0 4 4 0 360
+ path name resetlabel
+ path addstring 0 0 "RESET" arial 1.4 0
+ path name pwrlabel
+ path addstring 0 0 "PWR" arial 1.4 0
+ path name SFP+
+ path addstring 0 0 "SFP+" arial 1.4 0
+ path name portlabels
+ path addstring 0 0 "1                          2                        3                        4                        5                                                                                          6                        7                         8                        9                       10" arial 1.4 0
+ path name ledlabels1
+ path addstring 0 0 "1       2       3       4       5" arial 1.4 0
+ path name ledlabels2
+ path addstring 0 0 "6       7       8       9       10" arial 1.4 0
+ path name poelabel1
+ path addstring 0 0 "PoE in 18-57V" arial 1.4 0
+ path name poelabel2
+ path addstring 0 0 "PoE out P" arial 1.4 0
+ path name bracket
+ path addlines 0 0 20 0 30 7 127 7 127 37 30 37 20 44 0 44 0 0
+ path startfigure
+ path addarc 5 4 5 5 90 180
+ path addarc 9 4 5 5 270 180
+ path closefigure
+ path startfigure
+ path addarc 5 35 5 5 90 180
+ path addarc 9 35 5 5 270 180
+ path closefigure
+ path startfigure
+ path name screw
+ path addarc 0 0 8 8 0 360
+ path name screwhead
+ path startfigure
+ path addlines 3 2 2 3 3 4 2 5 3 6 4 5 5 6 6 5 5 4 6 3 5 2 4 3
+ path closefigure
+ pen black_pen &h000000& 255 0.1
+ pen dark_grey_pen1 &h606060& 255 0.5
+ brush grey_brush &h616161& 255
+ brush white_brush &hFFFFFF& 255
+ brush light_grey_brush &hEFEFEF& 255
+ brush black_brush &h000000& 255
+ brush led_brush &h2D8325& 255
+ brush blue_brush &hE18120& 255
+ brush reset_brush &h818181& 255
+ brush dark_grey_brush &h606060& 255
+ brush light_grey_brush2 &hc0c0c0& 255
+ fill box grey_brush
+ draw box black_pen
+ draw lid black_pen 0 5
+ fill ethbox light_grey_brush 42 13
+ draw ethbox black_pen 42 13
+ fill ethbox light_grey_brush 147 13
+ draw ethbox black_pen 147 13
+ fill rj45 black_brush 44 13.5
+ fill rj45 black_brush 58 13.5
+ fill rj45 black_brush 72 13.5
+ fill rj45 black_brush 86 13.5
+ fill rj45 black_brush 100 13.5
+ fill rj45 black_brush 149 13.5
+ fill rj45 black_brush 163 13.5
+ fill rj45 black_brush 177 13.5
+ fill rj45 black_brush 191 13.5
+ fill rj45 black_brush 205 13.5
+ fill sfpslot_bg light_grey_brush 20 13
+ draw sfpslot_bg black_pen 20 13
+ fill sfpslot black_brush 21 14
+ fill LED led_brush 120 14
+ fill LED led_brush 125 14
+ fill LED led_brush 130 14
+ fill LED led_brush 135 14
+ fill LED led_brush 140 14
+ fill LED led_brush 120 19
+ fill LED led_brush 125 19
+ fill LED led_brush 130 19
+ fill LED led_brush 135 19
+ fill LED led_brush 140 19
+ fill LED led_brush 13 19
+ fill LED blue_brush 13 14
+ fill reset reset_brush 6 16
+ draw reset black_pen 6 16
+ fill resetlabel white_brush 5 21
+ fill pwrlabel white_brush 12.5 12
+ fill SFP+ white_brush 12.5 22
+ fill SFP+ white_brush 26 11
+ fill portlabels white_brush 49 10
+ fill ledlabels1 white_brush 121 11
+ fill ledlabels2 white_brush 121 23
+ fill poelabel1 white_brush 43 27
+ fill poelabel2 white_brush 207 27
+ option "brackets and screws"
+ draw bracket dark_grey_pen1 -128.5 -7
+ fill bracket grey_brush -128.5 -7
+ draw bracket dark_grey_pen1 356.5 -7 -1 1
+ fill bracket grey_brush 356.5 -7 -1 1
+ fill screw light_grey_brush2 -123 -5
+ draw screw dark_grey_pen1 -123 -5
+ fill screwhead dark_grey_brush -123 -5
+ fill screw light_grey_brush2 342.5 -5
+ draw screw dark_grey_pen1 342.5 -5
+ fill screwhead dark_grey_brush 342.5 -5
+ fill screw light_grey_brush2 -123 26
+ draw screw dark_grey_pen1 -123 26
+ fill screwhead dark_grey_brush -123 26
+ fill screw light_grey_brush2 342.5 26
+ draw screw dark_grey_pen1 342.5 26
+ fill screwhead dark_grey_brush 342.5 26
+ draw screw dark_grey_pen1 -123 26
+ fill screwhead dark_grey_brush -123 26
+ fill screw light_grey_brush2 342.5 26
+ draw screw dark_grey_pen1 342.5 26
+ fill screwhead dark_grey_brush 342.5 26
+ fill screwhead dark_grey_brush 342.5 26
+ script wireless1 35 35 0.3
+ path name arcs
+ path addarc -15 0 50 50 0 -90
+ path startfigure
+ path addarc -15 5 45 45 0 -90
+ path startfigure
+ path addarc -15 10 40 40 0 -90
+ path startfigure
+ path addarc -15 15 35 35 0 -90
+ path startfigure
+ path addarc -15 20 30 30 0 -90
+ pen grey_pen &h787878& 255 2
+ draw arcs grey_pen
