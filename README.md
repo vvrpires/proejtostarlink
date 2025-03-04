@@ -5,4 +5,4 @@
 # Link do site da ferramenta: https://www.networknotepad.com/index.shtml
 # Link para download https://www.networknotepad.com/Pro1.3/EN/Download.shtml
 # Version 1.4.6
-# Para criacção do diagrama foi usado o Visual Paradigm ;  https://www.visual-paradigm.com/
+# Para criação do diagrama foi usado o Visual Paradigm ;  https://www.visual-paradigm.com/
